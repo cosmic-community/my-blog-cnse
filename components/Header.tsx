@@ -12,6 +12,7 @@ export default function Header() {
           <Link href="/posts" className="hover:text-ember transition-colors">Posts</Link>
           <Link href="/authors" className="hover:text-ember transition-colors">Authors</Link>
           <Link href="/categories" className="hover:text-ember transition-colors">Categories</Link>
+          <Link href="/about" className="hover:text-ember transition-colors">About</Link>{/* Changed: Added About link */}
         </nav>
       </div>
     </header>

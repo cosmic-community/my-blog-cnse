@@ -3,7 +3,7 @@ export default function Hero() {
     <section className="relative bg-charcoal text-cream overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="https://imgix.cosmicjs.com/https://imgix.cosmicjs.com/eba11150-3e85-11f1-a169-fd69d33cc743-autopilot-photo-1555066931-4365d14bab8c-1776888032836.jpeg?w=2400&h=1200&fit=crop&auto=format,compress"
+          src="https://imgix.cosmicjs.com/eba11150-3e85-11f1-a169-fd69d33cc743-autopilot-photo-1555066931-4365d14bab8c-1776888032836.jpeg?w=2400&h=1200&fit=crop&auto=format,compress"
           alt="Hero"
           className="w-full h-full object-cover opacity-40"
         />
